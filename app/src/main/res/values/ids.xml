@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recycler_view" type="id" />
+    <item name="tv_name" type="id" />
+    <item name="team_name" type="id" />
+    <item name="team_badge" type="id" />
+    <item name="team_logo" type="id" />
+    <item name="league_name" type="id" />
+    <item name="tv_league_list" type="id" />
+    <item name="tess" type="id" />
+    <item name="team_container" type="id" />
+    <item name="tv_team_list" type="id" />
+    <item name="league_logo" type="id" />
+    <item name="view_pager" type="id" />
+    <item name="tab_layout" type="id" />
+    <item name="league_name_detail" type="id" />
+    <item name="league_description_detail" type="id" />
+    <item name="league_id" type="id" />
+    <item name="league_id_detail" type="id" />
+</resources>
